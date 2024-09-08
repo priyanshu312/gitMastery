@@ -1,1 +1,2 @@
-changes in feature2 branch
+# gitMastery
+This is a test file to learn git
